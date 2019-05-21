@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Artur dalej nic nie podejrzewa" << endl;
+	cout << "Artur dalej nic nie podejrzewa!!!" << endl;
 	return 1;
 }
