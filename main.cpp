@@ -1,7 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	std::cout << "Artur dalej nic nie podejrzewa" << std::endl;
+	cout << "Artur dalej nic nie podejrzewa" << endl;
 	return 1;
 }
