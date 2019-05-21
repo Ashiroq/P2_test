@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Artur dalej nic nie podejrzewa!!!!!" << endl;
-	return 1;
+	std::cout << "Hello World" << std::endl;
+	std::cout << "Edited in Vim" << std::endl;
+	return 0;
 }
